@@ -1,0 +1,6 @@
+{
+  "name": "widget",
+  "identifier": "com.metrological.app.widget",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
